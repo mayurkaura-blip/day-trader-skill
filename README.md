@@ -1,3 +1,9 @@
+> **FinAgent integration** — The logic from these 11 skills is being ported to
+> TypeScript and integrated into [FinAgent](https://finagent.mayurdemo.xyz),
+> a Cloudflare-hosted multi-asset AI analyst. This fork is maintained at
+> [mayurkaura-blip/day-trader-skill](https://github.com/mayurkaura-blip/day-trader-skill)
+> and auto-syncs daily from the upstream source.
+
 # The Day Trader skill
 
 11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar.
